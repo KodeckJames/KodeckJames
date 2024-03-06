@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kodeck James
-- 👀 I’m a front-end web developer
+- 👀 I’m a front-end web developer and python developer
 - 🌱 I’m currently learning in the University
 - 💞️ I’m looking to collaborate with anyone with innovative ideas
 - 📫 How to reach me: kodeckjames095@gmail.com
