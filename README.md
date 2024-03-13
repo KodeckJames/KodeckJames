@@ -16,7 +16,7 @@
   
 - 💞️ I’m looking to collaborate with anyone with innovative ideas
   
-- 📫 How to reach me: kodeckjames095@gmail.com
+  
 
  </div>
 
