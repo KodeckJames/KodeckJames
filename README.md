@@ -5,7 +5,9 @@
 <div align="center">
 <a href="https://app.daily.dev/kodeckjames"><img src="https://api.daily.dev/devcards/v2/98kdPV0FtPTo92XuX8QmS.png?type=default&r=7h2" width="356" alt="Kodeck James's Dev Card"/></a>
 </div>
-<hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=About+me.;" />
+</h1>
 <div align="center">
  
  - 👀 I’m a front-end web developer and python developer
