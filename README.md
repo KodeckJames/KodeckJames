@@ -26,6 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
 
