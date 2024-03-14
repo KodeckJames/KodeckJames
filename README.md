@@ -10,15 +10,13 @@
 </h1>
 <div align="center">
  
-  👀 I’m a front-end web developer and python developer
-   
- 🌱 I’m currently learning in the University
-  
+  👀 I’m a front-end web developer and python developer 
+ 
  💞️ I’m currently interested in Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
  🔭 Aspiring AI developer
   
-  
+  🌱 I’m currently learning in the University
 
  </div>
 
