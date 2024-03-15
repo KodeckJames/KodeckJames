@@ -12,7 +12,7 @@
  <h3>
   👀 I’m a front-end web developer and python developer <br><br>
  
- 💞️ I’m currently interested in Machine learning, Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
+ 💞️ I’m currently interested in Machine Learning, Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
  🔭 Aspiring AI developer
   
