@@ -9,15 +9,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=About+me.;" />
 </h1>
 <div align="center">
- <h3>
-  👀 I’m a front-end web developer and python developer 
+ <h4>
+  👀 I’m a front-end web developer and python developer <br>
  
  💞️ I’m currently interested in Machine learning, Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
  🔭 Aspiring AI developer
   
   🌱 I’m currently learning in the University
-</h3>
+</h4>
  </div>
 
 <h1 align="center">
