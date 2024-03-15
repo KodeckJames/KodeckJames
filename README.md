@@ -10,7 +10,7 @@
 </h1>
 <div align="center">
  <h4>
-  👀 I’m a front-end web developer and python developer <br>
+  👀 I’m a front-end web developer and python developer <br><br>
  
  💞️ I’m currently interested in Machine learning, Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
