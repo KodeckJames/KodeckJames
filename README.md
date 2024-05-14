@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<a href="https://app.daily.dev/kodeckjames"><img src="https://api.daily.dev/devcards/v2/98kdPV0FtPTo92XuX8QmS.png?type=default&r=7h2" width="652" alt="Kodeck James's Dev Card"/></a>
+<a href="https://app.daily.dev/kodeckjames"><img src="https://api.daily.dev/devcards/v2/98kdPV0FtPTo92XuX8QmS.png?type=wide&r=i45" width="652" alt="Kodeck James's Dev Card"/></a>
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=About+me.;" />
