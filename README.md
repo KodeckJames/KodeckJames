@@ -16,7 +16,8 @@
 
  🔭 Aspiring AI developer.
   
-  🌱 I’m currently learning in the University
+  🌱 I’m currently learning in the University.
+  
 </h3>
  </div>
 
