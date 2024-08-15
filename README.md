@@ -14,7 +14,7 @@
  
  💞️ I’m currently interested in Machine Learning, Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
- 🔭 Aspiring AI developer.
+ 🔭 Aspiring AI developer
   
   🌱 I’m currently learning in the University
   
