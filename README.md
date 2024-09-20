@@ -10,13 +10,9 @@
 </h1>
 <div align="center">
  <h3>
-  👀 Software Engineer | React | Django <br><br>
+  👀 Software Engineer | React Native | Django | Node js<br><br>
  
- 💞️ I’m currently interested in Machine Learning, Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
-
- 🔭 Aspiring AI developer.
-  
-  🌱 I’m currently learning in the University.
+ 💞️ Mobile Developer 📱
   
 </h3>
  </div>
@@ -27,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=react,django,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,django,tailwind,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
 
