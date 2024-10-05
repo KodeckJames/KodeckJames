@@ -22,8 +22,8 @@
 </h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=react,django,tailwind,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=reactnative,django,tailwind,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
 
