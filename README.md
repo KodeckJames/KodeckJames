@@ -10,7 +10,7 @@
 </h1>
 <div align="center">
  <h3>
-  👀 Software Engineer | React Native | Django | Node js<br><br>
+  👀 Software Engineer <br><br>
  
  💞️ Mobile Developer 📱
   
@@ -22,7 +22,7 @@
 </h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,C" /><br>
     <img src="https://skillicons.dev/icons?i=react,django,tailwind,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
