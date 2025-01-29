@@ -22,7 +22,7 @@
 </h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,C" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" /><br>
     <img src="https://skillicons.dev/icons?i=react,django,tailwind,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
