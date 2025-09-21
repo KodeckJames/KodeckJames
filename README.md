@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kodeck+James;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Kodeck+James;" />
 </h1>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,c++" /><br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,django,tailwind,supabase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
 </div>
